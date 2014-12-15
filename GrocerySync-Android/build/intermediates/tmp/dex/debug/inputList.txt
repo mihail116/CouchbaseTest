@@ -1,0 +1,9 @@
+D:\Temp\Couchbase\GrocerySync\GrocerySync-Android\build\intermediates\classes\debug
+D:\Temp\Couchbase\GrocerySync\GrocerySync-Android\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-8b4cb24576b4cbc7988c868df5608fbee3626317.jar
+D:\Temp\Couchbase\GrocerySync\GrocerySync-Android\build\intermediates\pre-dexed\debug\classes-50d7537a4dd457a4bbb4b43adba9d00bb6552ef8.jar
+D:\Temp\Couchbase\GrocerySync\GrocerySync-Android\build\intermediates\pre-dexed\debug\stateless4j-2.4.0-e0a49c9a8706f4254b3278bf971bd8b98b3db039.jar
+D:\Temp\Couchbase\GrocerySync\GrocerySync-Android\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-2fbba5448993b591b6a05cab8307c576374cc66b.jar
+D:\Temp\Couchbase\GrocerySync\GrocerySync-Android\build\intermediates\pre-dexed\debug\jackson-core-asl-1.9.2-cb744aeeaa02c9e2fa6c72846306fe41984298f7.jar
+D:\Temp\Couchbase\GrocerySync\GrocerySync-Android\build\intermediates\pre-dexed\debug\couchbase-lite-java-core-1.0.3.1-9f3c29c4484e671bfbc55a8bc9f6ced84a0d1b64.jar
+D:\Temp\Couchbase\GrocerySync\GrocerySync-Android\build\intermediates\pre-dexed\debug\jackson-mapper-asl-1.9.2-427030838c9a51709f5f7df68cf18a0b8f9ce8d3.jar
+D:\Temp\Couchbase\GrocerySync\GrocerySync-Android\build\intermediates\pre-dexed\debug\classes-f0a45c0635c9306ce93b9d84ed0356531e162a06.jar

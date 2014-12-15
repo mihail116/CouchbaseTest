@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Temp\Couchbase\GrocerySync\GrocerySync-Android\build\intermediates\exploded-aar\com.couchbase.lite\couchbase-lite-android\1.0.3.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a2fa0cc9a91d6064857f3ecb6cc4d8415982b567">
+        <dex dex="D:\Temp\Couchbase\GrocerySync\GrocerySync-Android\build\intermediates\pre-dexed\debug\classes-50d7537a4dd457a4bbb4b43adba9d00bb6552ef8.jar" />
+    </item>
+    <item
+        jar="D:\Temp\Couchbase\GrocerySync\GrocerySync-Android\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="D:\Temp\Couchbase\GrocerySync\GrocerySync-Android\build\intermediates\pre-dexed\debug\classes-f0a45c0635c9306ce93b9d84ed0356531e162a06.jar" />
+    </item>
+    <item
+        jar="D:\Temp\Couchbase\GrocerySync\GrocerySync-Android\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="D:\Temp\Couchbase\GrocerySync\GrocerySync-Android\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-2fbba5448993b591b6a05cab8307c576374cc66b.jar" />
+    </item>
+    <item
+        jar="C:\Users\WWK\.gradle\caches\modules-2\files-2.1\com.github.oxo42\stateless4j\2.4.0\128aca4ace585f0b42faa739d0b968a154debb7a\stateless4j-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="128aca4ace585f0b42faa739d0b968a154debb7a">
+        <dex dex="D:\Temp\Couchbase\GrocerySync\GrocerySync-Android\build\intermediates\pre-dexed\debug\stateless4j-2.4.0-e0a49c9a8706f4254b3278bf971bd8b98b3db039.jar" />
+    </item>
+    <item
+        jar="C:\Users\WWK\.gradle\caches\modules-2\files-2.1\org.codehaus.jackson\jackson-mapper-asl\1.9.2\95400a7922ce75383866eb72f6ef4a7897923945\jackson-mapper-asl-1.9.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="95400a7922ce75383866eb72f6ef4a7897923945">
+        <dex dex="D:\Temp\Couchbase\GrocerySync\GrocerySync-Android\build\intermediates\pre-dexed\debug\jackson-mapper-asl-1.9.2-427030838c9a51709f5f7df68cf18a0b8f9ce8d3.jar" />
+    </item>
+    <item
+        jar="C:\Users\WWK\.gradle\caches\modules-2\files-2.1\org.codehaus.jackson\jackson-core-asl\1.9.2\8493982bba1727106d767034bd0d8e77bc1931a9\jackson-core-asl-1.9.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="8493982bba1727106d767034bd0d8e77bc1931a9">
+        <dex dex="D:\Temp\Couchbase\GrocerySync\GrocerySync-Android\build\intermediates\pre-dexed\debug\jackson-core-asl-1.9.2-cb744aeeaa02c9e2fa6c72846306fe41984298f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\WWK\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="D:\Temp\Couchbase\GrocerySync\GrocerySync-Android\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-8b4cb24576b4cbc7988c868df5608fbee3626317.jar" />
+    </item>
+    <item
+        jar="C:\Users\WWK\.gradle\caches\modules-2\files-2.1\com.couchbase.lite\couchbase-lite-java-core\1.0.3.1\c96078de4bf2ec18e016e1453ef7a441b932ddca\couchbase-lite-java-core-1.0.3.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c96078de4bf2ec18e016e1453ef7a441b932ddca">
+        <dex dex="D:\Temp\Couchbase\GrocerySync\GrocerySync-Android\build\intermediates\pre-dexed\debug\couchbase-lite-java-core-1.0.3.1-9f3c29c4484e671bfbc55a8bc9f6ced84a0d1b64.jar" />
+    </item>
+
+</items>
